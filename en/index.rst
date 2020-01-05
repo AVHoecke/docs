@@ -27,7 +27,6 @@ the documentation.
     EPUB, you can now read it on more devices, as well as offline.
 
     - `PDF <../_downloads/en/CakePHPCookbook.pdf>`_
-    - `EPUB <../_downloads/en/CakePHPCookbook.epub>`_
     - `Original Source <https://github.com/cakephp/docs>`_
 
 Getting Started
